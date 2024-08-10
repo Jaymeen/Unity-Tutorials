@@ -135,12 +135,6 @@
       },
       "url": "https://packages.unity.com"
     },
-    "de.frankenbit.unity.utilities.statemachine": {
-      "version": "file:C:/Users/Lenovo/Unity Projects/StateMachine-master/StateMachine-master",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
