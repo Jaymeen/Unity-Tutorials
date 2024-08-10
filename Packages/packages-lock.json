@@ -135,6 +135,13 @@
       },
       "url": "https://packages.unity.com"
     },
+    "de.frankenbit.unity.utilities.statemachine": {
+      "version": "https://github.com/Jaymeen/Unity-State-Machine.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "d46f663df7053f00e65b1fb87fbed3186c2a157a"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
